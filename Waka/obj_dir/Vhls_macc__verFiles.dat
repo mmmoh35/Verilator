@@ -1,0 +1,13 @@
+# DESCRIPTION: Verilator output: Timestamp data for --skip-identical.  Delete at will.
+C "-Wall --cc hls_macc.v --exe --build hls_macc_test1.c"
+S   8714472  1442088  1594704606    80583060  1594704606    80583060 "/usr/local/bin/verilator_bin"
+S      9502  3278204  1605096274   750764313  1594877998   473268000 "hls_macc.v"
+T     13043  3279269  1605097007   242182638  1605097007   242182638 "obj_dir/Vhls_macc.cpp"
+T      4472  3279267  1605097007   242182638  1605097007   242182638 "obj_dir/Vhls_macc.h"
+T      1799  3279271  1605097007   242182638  1605097007   242182638 "obj_dir/Vhls_macc.mk"
+T      8399  3279268  1605097007   242182638  1605097007   242182638 "obj_dir/Vhls_macc__Slow.cpp"
+T       554  3279258  1605097007   242182638  1605097007   242182638 "obj_dir/Vhls_macc__Syms.cpp"
+T       802  3279266  1605097007   242182638  1605097007   242182638 "obj_dir/Vhls_macc__Syms.h"
+T       272  3279272  1605097007   242182638  1605097007   242182638 "obj_dir/Vhls_macc__ver.d"
+T         0        0  1605097007   242182638  1605097007   242182638 "obj_dir/Vhls_macc__verFiles.dat"
+T      1558  3279270  1605097007   242182638  1605097007   242182638 "obj_dir/Vhls_macc_classes.mk"
